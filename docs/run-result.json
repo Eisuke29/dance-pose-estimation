@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-01",
+  "environment": "MATLAB R2026a / Windows 11 / CPU",
+  "source": "Antoni Shkraba / Pexels 7571381",
+  "source_url": "https://www.pexels.com/video/video-of-a-man-dancing-7571381/",
+  "input_duration_seconds": 8,
+  "fps": 12,
+  "width": 960,
+  "height": 506,
+  "input_frames": 96,
+  "output_frames": 96,
+  "matlab_elapsed_seconds": 424.160555,
+  "algorithm_changes": false,
+  "preprocessing": "素材の10秒から8秒を切り出し、960×506・12fps・無音へ変換した後に課題原本を実行。",
+  "visual_review_seconds": [
+    1,
+    3,
+    6
+  ],
+  "note": "友人の映像は使用していない。処理時間は今回の1回の測定で、元の提出時の測定と条件が異なる。"
+}
